@@ -1,0 +1,16 @@
+{
+    "name": "FLOKING",
+    "symbol": "FKG",
+    "image": "https://ipfs.io/ipfs/QmVPS4jLB5uXCfgU2hb2gYWbdtJJ8y5K1WCafn4FrqMAJz",
+    "description": "FLOKING error: default signer is required, please specify a valid default signer by identifying a valid configuration file using the --config argument, or by creating a valid config at the default location of ~/.config/solana/cli/config.yml using the solana config command",
+    "extensions": {
+      "website": "https://www.youtube.com/watch?v=Qu3wPNNkgNQ",
+      "twitter": "https://www.youtube.com/watch?v=Qu3wPNNkgNQ",
+      "telegram": "https://www.youtube.com/watch?v=Qu3wPNNkgNQ",
+      "discord": "https://www.youtube.com/watch?v=Qu3wPNNkgNQ"
+    },
+    "tags": [
+      "Meme",
+      "FunToken"
+    ]
+  }
